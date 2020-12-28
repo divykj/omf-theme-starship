@@ -16,6 +16,12 @@
 $ omf install https://github.com/divykj/omf-theme-dv-starship
 ```
 
+## Use
+
+```fish
+$ omf theme dv-starship
+```
+
 # License
 
 [MIT][mit] © [Divy Jain][author] et [al][contributors]
