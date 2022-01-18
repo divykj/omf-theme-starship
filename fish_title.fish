@@ -3,7 +3,7 @@ function fish_title
     and echo "($_) "
     or echo '('(basename $VIRTUAL_ENV)') '
 
-    set -l git_dir (command git rev-parse --show-toplevel ^ /dev/null)
+    set -l git_dir (command git rev-parse --show-toplevel 2> /dev/null)
     and echo (echo (basename $git_dir)/(git rev-parse --show-prefix) | string trim --chars='/')
     or echo (prompt_pwd)
 end
