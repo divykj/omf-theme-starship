@@ -27,7 +27,7 @@ $ omf theme dv-starship
 [MIT][mit] © [Divy Jain][author] et [al][contributors]
 
 [mit]: https://opensource.org/licenses/MIT
-[author]: https://github.com/divykj
+[author]: https://github.com/dvjn
 [contributors]: https://github.com/dvjn/omf-theme-dv-starship/graphs/contributors
 [omf-link]: https://www.github.com/oh-my-fish/oh-my-fish
 [license-badge]: https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
